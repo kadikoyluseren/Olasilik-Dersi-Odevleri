@@ -1,7 +1,3 @@
-% 16253037
-% SEREN KADIKOYLU
-% BILGISAYAR MUHENDISLIGI
-
 kazandi=0;
 i=0;
 while(i<1000)
