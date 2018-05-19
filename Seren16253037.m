@@ -1,6 +1,3 @@
-%SEREN KADIKÖYLÜ
-%16253037
-%BÝLGÝSAYAR MÜHENDÝSLÝÐÝ
 %-----------------------------
 
 % YAPILAN TUM ATISLARIN GOSTERIMI
