@@ -1,5 +1,3 @@
-%-----------------------------
-
 % YAPILAN TUM ATISLARIN GOSTERIMI
 atisSayisi= 1000; %yapilacak atis sayisi
 R = 30; %buyuk cemberin yaricapi
